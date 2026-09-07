@@ -22,7 +22,7 @@ Apaixonado por desenvolvimento de software e novas tecnologias!
 <h3 style="font-size: 1.6em; border: none; margin-bottom: 10px;">🔗 Vamos nos conectar?</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/lessandro-mendes-alhadas/" title="www.linkedin.com/in/lessandroalhadas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 140px; height: 40px; object-fit: fill; margin: 0 10px;" /></a>
+<a href="https://www.linkedin.com/in/lessandroalhadas/" title="www.linkedin.com/in/lessandroalhadas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 140px; height: 40px; object-fit: fill; margin: 0 10px;" /></a>
 <a href="mailto:lessandro.alhadas@gmail.com" title="lessandro.alhadas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-4285F4?style=for-the-badge&logo=gmail&logoColor=FBBC05" style="width: 140px; height: 40px; object-fit: fill; margin: 0 10px;" /></a>
 </div>
 
