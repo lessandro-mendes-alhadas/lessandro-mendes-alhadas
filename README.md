@@ -7,23 +7,23 @@
 
 Apaixonado por desenvolvimento de software e novas tecnologias!
 
-<!-- Bloco da Badge Centralizada -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 30px; margin: 20px 0;">
+<!-- BADGE GCP -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F9C5D1,100:A0D4F8&height=4" />
+  <br />
   <a href="https://www.credly.com/badges/d77eb4d1-4c5a-4c69-a7f9-8f65ffc641ea" target="_blank" title="Google - Associate Cloud Engineer">
     <img src="https://img.shields.io/badge/Google%20%20Certified-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FBBC05" style="display: block;" />
   </a>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F9C5D1,100:A0D4F8&height=4" />
-</div>
 
 <!-- PRINCIPAIS FERRAMENTAS -->
 <h3 style="font-size: 1.6em; border: none; margin-bottom: 10px;">🛠️ Principais Ferramentas</h3>
-<hr /><br />
+<hr />
 <h2>Cloud & Data</h2>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-
+<br />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-FE6703?style=for-the-badge" />
-
+<br />
 <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 <h2>Databases</h2>
