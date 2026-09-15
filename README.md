@@ -37,7 +37,7 @@ Apaixonado por desenvolvimento de software e novas tecnologias!
 <img src="https://img.shields.io/badge/SyBase-CC0000?style=for-the-badge" />
 
 
-<h2>Back</h2>
+<h2>Back-end</h2>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-2.2-green?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell%20Script-red?style=for-the-badge&logo=gnu-bash&logoColor=white" />
